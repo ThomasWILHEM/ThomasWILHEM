@@ -14,7 +14,7 @@
 ### :woman_technologist: About Me :
 
 - I'm a 19 years old computer science student who live in France.
-- Currently learning React.js
+- Currently learning React.js and Vue 3
 
 ---
 
