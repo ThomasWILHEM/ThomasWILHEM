@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 
-- I'm a 20 years old web developper who live in France.
+- I'm a 20 years old web developper who live in Bordeaux, France.
 - Currently learning Django
 
 ---
